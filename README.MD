@@ -1,1 +1,6 @@
 Altium Libraly
+Bước 1: CLone và Download về máy tính
+Bước 2: Giải nén và lưu vào 1 ổ cố định
+Bước 3: Mở Altum lên, nhấn D B để mở Tab Libraly
+Bước 4: Nhấn Installed trỏ tới file " Altium_Lib_by_KhueNguyenCreator.IntLib " trong thư mục Ouput
+Bước 5:Close tab và sử dụng như bình thường
