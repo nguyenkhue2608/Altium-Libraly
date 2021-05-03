@@ -8,4 +8,6 @@ Bước 3: Mở Altum lên, nhấn D B để mở Tab Libraly
 
 Bước 4: Nhấn Installed trỏ tới file " Altium_Lib_by_KhueNguyenCreator.IntLib " trong thư mục Ouput
 
-Bước 5:Close tab và sử dụng như bình thường
+Bước 5: Close tab và sử dụng như bình thường
+
+Chi tiết xem tại: https://khuenguyencreator.com/hoc-altium-tu-a-toi-z-cho-sinh-vien/
